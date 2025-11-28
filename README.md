@@ -35,13 +35,16 @@ Análise completa de dados com:
   ## 💡 Como Visualizar a Planilha
 
 ### 🔗 Acesso Direto pelo Google Sheets:
-**[Clique aqui para abrir a planilha online]([https://docs.google.com/spreadsheets/d/SEU_LINK_AQUI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1U7e2IrKUHxV-FmlFO_JDxumK1N8VyM9YwqCqTTdDfjc/edit?usp=sharing))**
+**[Clique aqui para abrir a planilha online](https://docs.google.com/spreadsheets/d/1U7e2IrKUHxV-FmlFO_JDxumK1N8VyM9YwqCqTTdDfjc/edit?usp=sharing)**
 
 ### Alternativas:
 1. **Download** do arquivo `.xlsx` acima
 2. **Upload** no [Google Sheets](https://sheets.google.com) se preferir
 
 ### 📝 Observações:
+- Desenvolvido originalmente no **Google Sheets**
+- Fórmulas em **português** (CONT.SE, MÉDIA, MÉDIASE, PROCV)
+- Pode haver pequenas diferenças de formatação ao abrir no Excel
 - Desenvolvido originalmente no **Google Sheets**
 - Fórmulas em **português** (CONT.SE, MÉDIA, MÉDIASE, PROCV)
 - Pode haver pequenas diferenças de formatação ao abrir no Excel
