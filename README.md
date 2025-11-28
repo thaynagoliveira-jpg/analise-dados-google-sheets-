@@ -46,5 +46,4 @@ Análise completa de dados com:
 - Fórmulas em **português** (CONT.SE, MÉDIA, MÉDIASE, PROCV)
 - Pode haver pequenas diferenças de formatação ao abrir no Excel
 - Desenvolvido originalmente no **Google Sheets**
-- Fórmulas em **português** (CONT.SE, MÉDIA, MÉDIASE, PROCV)
-- Pode haver pequenas diferenças de formatação ao abrir no Excel
+
